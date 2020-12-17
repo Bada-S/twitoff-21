@@ -9,6 +9,15 @@ verify_ssl = true
 flask = "*"
 flask-sqlalchemy = "*"
 jinja2 = "*"
+tweepy = "*"
+spacy = "*"
+python-dotenv = "*"
+scikit-learn = "*"
+flask-migrate = "*"
+pipenv = "*"
+install = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
 
 [requires]
 python_version = "3.8"
